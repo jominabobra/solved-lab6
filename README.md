@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-lab6
+<br>
+Open and read the Speech.txt file in this week’s document folder. For each character in the file, create a frequency counter, and incrementthe counter each time the character is found in the file. Each charac:er in the file will have an associated frequency. Store the charac:er &amp;lt;KEY&amp;gt; and frequency &amp;lt;VALUE&amp;gt; pair in a ordered binary search tree (dictionary). Submission status
